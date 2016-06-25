@@ -1,0 +1,36 @@
+@media screen and (min-width: 480px) {
+  #primary {width: 50%; float: left;}
+
+  #secondary {width: 40%; float: right;}
+}
+
+@media screen and (min-width: 660px) {
+  #skills{margin: 0 auto 100px auto; width: 800px}
+
+  #hobbies{margin: 0 auto 100px auto; width: 800px;}
+
+  #logo {
+    float: left;
+    margin-left: 5%;
+    text-align: left;
+    width: 45%;
+  }
+
+  h1 {font-size: 2.5em; }
+
+  h2 {font-size: 0.825em; margin-bottom: 20px;}
+
+  header {border-bottom: 5px solid #005D7F; margin-bottom: 60px;}
+
+  .profile-photo {float: right; padding-right: 20px;}
+
+  #snh li {text-align: center;}
+
+  #snh ul {padding: 0 25px;}
+}
+
+@media screen and (min-width: 850px) {
+  #skills{float: left; width: 400px;}
+
+  #hobbies{float: right; width: 400px;}
+}
