@@ -166,7 +166,7 @@ a:active {
 .wildlife {
   color: white;
   padding: 18% 24%;
-  border-top: 10px solid #ffa949;
+  border: 5px solid #ffa949;
   margin: 105px 0 60px;
   background: #434a52 url('../img/bear.jpg') no-repeat center / cover;
   box-shadow: 0 0 50px 10px rgba(0,0,0,1) inset,
